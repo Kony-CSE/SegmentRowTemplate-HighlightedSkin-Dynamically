@@ -1,0 +1,27 @@
+{
+    "AS_Button_2d4ff6dde4eb4dc09ffed26ab31b14b1": {
+        "id": "AS_Button_2d4ff6dde4eb4dc09ffed26ab31b14b1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "TempTest",
+            "type": "templates",
+            "platform": "",
+            "KUID": "c15e9a6e22fa4ce1bb26627c2cceb14e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a34e3b44434b4ccdb293f45f391ec3a0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
